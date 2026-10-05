@@ -1,0 +1,11 @@
+#	| Nhóm 					| Class gợi ý 						|
+----|-----------------------|-----------------------------------|
+1.	| Overhead attacking 	| Smash 							|
+2.	| Overhead neutral 		| Clear 							|
+3.	| Overhead deceptive 	| Drop / Slice drop 				|
+4.	| Forecourt 			| Net shot 							|
+5.	| Defensive lift 		| Lift 								|
+6.	| Flat exchange 		| Drive 							|
+7.	| Fast forecourt 		| Push 								|
+8.	| Defensive return 		| Block 							|
+9.	| Serve 				| High serve / Low serve nếu cần 	|

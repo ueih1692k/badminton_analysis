@@ -1,0 +1,11 @@
+Main pipeline:
+Object detection => trigger => stroke-type classification
+
+1. Object detection:
+	-	YOLO11
+	-	3 classes:
+		+ Racket (racket head)
+		+ Player
+		+ Shuttle
+2. Trigger moment: (IoU_racket + IoU_shuttle) / IoU_shuttle > 0.8 ?
+3. Stroke-type classification: possibility of action techniques + possibility of shuttle landing position (Architecture undesigned)
